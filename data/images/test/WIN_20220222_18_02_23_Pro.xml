@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Camera Roll</folder>
+  <filename>WIN_20220222_18_02_23_Pro</filename>
+  <path>C:\Users\Erfan\Pictures\Camera Roll\WIN_20220222_18_02_23_Pro.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>pg</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>710</xmin>
+      <ymin>293</ymin>
+      <xmax>845</xmax>
+      <ymax>393</ymax>
+    </bndbox>
+  </object>
+</annotation>
